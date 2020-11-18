@@ -11,12 +11,24 @@
 <h3>Meus Livros em português (gratuitos)</h3>
 
 <p align="center"> 
-  <a href="https://leanpub.com/livro-angularJS"><img src="https://d2sofvawe08yqg.cloudfront.net/livro-angularJS/hero?1549420607" width="150px" /></a>
-   <a href="https://leanpub.com/livro-angular2"><img src="https://d2sofvawe08yqg.cloudfront.net/livro-angular2/hero?1549473260" width="150px" /></a>
-   <a href="https://leanpub.com/livrovue-builddeployemportigues"><img src="https://d2sofvawe08yqg.cloudfront.net/livrovue-builddeployemportigues/hero?1549509871" width="150px" /></a>
-   <a href="https://leanpub.com/react-guia-do-iniciate"><img src="https://d2sofvawe08yqg.cloudfront.net/react-guia-do-iniciate/hero?1549470710" width="150px" /></a>
-   <a href="https://leanpub.com/livro-vue"><img src="https://d2sofvawe08yqg.cloudfront.net/livro-vue/hero?1549486530" width="150px" /></a>
+  <a href="https://leanpub.com/livro-angularJS"><img src="https://d2sofvawe08yqg.cloudfront.net/livro-angularJS/hero?1549420607" height="150px" /></a>
+   <a href="https://leanpub.com/livro-angular2"><img src="https://d2sofvawe08yqg.cloudfront.net/livro-angular2/hero?1549473260" height="150px" /></a>
+   <a href="https://leanpub.com/livrovue-builddeployemportigues"><img src="https://d2sofvawe08yqg.cloudfront.net/livrovue-builddeployemportigues/hero?1549509871" height="150px" /></a>
+   <a href="https://leanpub.com/react-guia-do-iniciate"><img src="https://d2sofvawe08yqg.cloudfront.net/react-guia-do-iniciate/hero?1549470710" height="150px" /></a>
+   <a href="https://leanpub.com/livro-vue"><img src="https://d2sofvawe08yqg.cloudfront.net/livro-vue/hero?1549486530" height="150px" /></a>
 </p>
+
+
+<h3>Meus Livros em ingles </h3>
+
+<p align="center"> 
+  <a href="https://leanpub.com/laravel-and-angularjs"><img src="https://d2sofvawe08yqg.cloudfront.net/laravel-and-angularjs/small2x?1549469404" height="150px" /></a>
+   <a href="https://leanpub.com/practical-angular-2"><img src="https://d2sofvawe08yqg.cloudfront.net/practical-angular-2/small2x?1549473273" height="150px" /></a>
+   <a href="https://leanpub.com/vue"><img src="https://d2sofvawe08yqg.cloudfront.net/vue/small2x?1549486644" height="150px" /></a>
+   <a href="https://leanpub.com/react-beginner-guide"><img src="https://d2sofvawe08yqg.cloudfront.net/react-beginner-guide/small2x?1549470731" height="150px" /></a>
+   <a href="https://leanpub.com/vue-book"><img src="https://d2sofvawe08yqg.cloudfront.net/vue-book/small2x?1549500512" height="150px" /></a>
+</p>
+
 
 <h3> Me pague um café? </h3>
 
