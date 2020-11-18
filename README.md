@@ -1,4 +1,4 @@
-![Banner](https://github.com/danielschmitz/danielschmitz/blob/master/banner.png)
+![Banner](banner.png)
 
 ### Hi there 👋
 
