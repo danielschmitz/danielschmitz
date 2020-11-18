@@ -11,7 +11,7 @@
 <h3>Meus Livros em português</h3>
 
 <p align="center"> 
-  <img src="https://d2sofvawe08yqg.cloudfront.net/livro-angularJS/hero?1549420607" width="150px" />
+  <a href="https://leanpub.com/livro-angularJS"><img src="https://d2sofvawe08yqg.cloudfront.net/livro-angularJS/hero?1549420607" width="150px" /></a>
   <img src="https://d2sofvawe08yqg.cloudfront.net/livro-angular2/hero?1549473260" width="150px" />
   <img src="https://d2sofvawe08yqg.cloudfront.net/livrovue-builddeployemportigues/hero?1549509871" width="150px" />
   <img src="https://d2sofvawe08yqg.cloudfront.net/react-guia-do-iniciate/hero?1549470710" width="150px" />
