@@ -1,3 +1,5 @@
+![Banner](https://github.com/danielschmitz/danielschmitz/blob/master/banner.png)
+
 ### Hi there 👋
 
 <!--
