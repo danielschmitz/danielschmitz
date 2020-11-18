@@ -1,5 +1,9 @@
 ![Banner](banner.png)
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/danielschmitz/count.svg" />
+</p>
+
 ### Hi there 👋
 
 <!--
