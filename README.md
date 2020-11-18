@@ -19,7 +19,7 @@
 </p>
 
 
-<h3>Meus Livros em ingles </h3>
+<h3>Meus Livros em inglês </h3>
 
 <p align="center"> 
   <a href="https://leanpub.com/laravel-and-angularjs"><img src="https://d2sofvawe08yqg.cloudfront.net/laravel-and-angularjs/small2x?1549469404" height="150px" /></a>
