@@ -145,7 +145,7 @@
         <img src="https://avatars2.githubusercontent.com/u/803733" width="100px;" alt="wilcorrea"/>
       </a>
       <br />
-      <a href="https://github.com/wilcorrea">William C�rrea</a>
+      <a href="https://github.com/wilcorrea">William Correa</a>
     </td>
     <td align="center">
       <a href="https://github.com/danilolutz">
@@ -153,6 +153,108 @@
       </a>
       <br />
       <a href="https://github.com/danilolutz">Danilo Lutz</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/swhgoon">
+        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
+      </a>
+      <br />
+      <a href="https://github.com/swhgoon">SwhGo_oN</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ktquez">
+        <img src="https://avatars2.githubusercontent.com/u/8084606" width="100px;" alt="ktquez"/>
+      </a>
+      <br />
+      <a href="https://github.com/ktquez">Alan Ktquez</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yanmagale">
+        <img src="https://avatars2.githubusercontent.com/u/5148042" width="100px;" alt="yanmagale"/>
+      </a>
+      <br />
+      <a href="https://github.com/yanmagale">Yan Magalhães</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/spekulatius">
+        <img src="https://avatars2.githubusercontent.com/u/8433587" width="100px;" alt="spekulatius"/>
+      </a>
+      <br />
+      <a href="https://github.com/spekulatius">Peter Thaleikis</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/esneko">
+        <img src="https://avatars2.githubusercontent.com/u/64329" width="100px;" alt="esneko"/>
+      </a>
+      <br />
+      <a href="https://github.com/esneko">Andrejs Agejevs</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/limatheus">
+        <img src="https://avatars2.githubusercontent.com/u/5197254" width="100px;" alt="limatheus"/>
+      </a>
+      <br />
+      <a href="https://github.com/limatheus">Matheus Lima</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/VitorEmanuelDev">
+        <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
+      </a>
+      <br />
+      <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/fhferreira">
+        <img src="https://avatars2.githubusercontent.com/u/140686" width="100px;" alt="fhferreira"/>
+      </a>
+      <br />
+      <a href="https://github.com/fhferreira">Flávio H. Ferreira</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gustavoquinalha">
+        <img src="https://avatars2.githubusercontent.com/u/13446801" width="100px;" alt="gustavoquinalha"/>
+      </a>
+      <br />
+      <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/raisiqueira">
+        <img src="https://avatars2.githubusercontent.com/u/2914170" width="100px;" alt="raisiqueira"/>
+      </a>
+      <br />
+      <a href="https://github.com/raisiqueira">Raí Siqueira</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/IgorDePaula">
+        <img src="https://avatars2.githubusercontent.com/u/2833993" width="100px;" alt="IgorDePaula"/>
+      </a>
+      <br />
+      <a href="https://github.com/IgorDePaula">Igor C. de Paula</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/muniz95">
+        <img src="https://avatars2.githubusercontent.com/u/4670954" width="100px;" alt="muniz95"/>
+      </a>
+      <br />
+      <a href="https://github.com/muniz95">Rodrigo Muniz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/movibe">
+        <img src="https://avatars2.githubusercontent.com/u/1755489" width="100px;" alt="movibe"/>
+      </a>
+      <br />
+      <a href="https://github.com/movibe">Willian Ribeiro Angelo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lucenarenato">
+        <img src="https://avatars2.githubusercontent.com/u/38870097" width="100px;" alt="lucenarenato"/>
+      </a>
+      <br />
+      <a href="https://github.com/lucenarenato">Renato de Oliveira Lucena</a>
     </td>
   </tr>
 </table>
