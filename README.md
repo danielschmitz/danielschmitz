@@ -250,11 +250,11 @@
       <a href="https://github.com/movibe">Willian Ribeiro Angelo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lucenarenato">
-        <img src="https://avatars2.githubusercontent.com/u/38870097" width="100px;" alt="lucenarenato"/>
+      <a href="https://github.com/KlausDevWalker">
+        <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausDevWalker"/>
       </a>
       <br />
-      <a href="https://github.com/lucenarenato">Renato de Oliveira Lucena</a>
+      <a href="https://github.com/KlausDevWalker">Klaus Ferreira</a>
     </td>
   </tr>
 </table>
