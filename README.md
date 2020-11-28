@@ -120,18 +120,18 @@
       <a href="https://github.com/wellington1993">Wellington Torrejais da Silva</a>
     </td>
     <td align="center">
-      <a href="https://github.com/thanhtoan1196">
-        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
-      </a>
-      <br />
-      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/smart-u">
         <img src="https://avatars2.githubusercontent.com/u/58533323" width="100px;" alt="smart-u"/>
       </a>
       <br />
       <a href="https://github.com/smart-u">Alex Xu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/thanhtoan1196">
+        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
+      </a>
+      <br />
+      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
     </td>
     <td align="center">
       <a href="https://github.com/JoseCage">
