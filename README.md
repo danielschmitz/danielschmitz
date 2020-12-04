@@ -199,11 +199,11 @@
       <a href="https://github.com/limatheus">Matheus Lima</a>
     </td>
     <td align="center">
-      <a href="https://github.com/VitorEmanuelDev">
-        <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
+      <a href="https://github.com/gustavoquinalha">
+        <img src="https://avatars2.githubusercontent.com/u/13446801" width="100px;" alt="gustavoquinalha"/>
       </a>
       <br />
-      <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
+      <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
     </td>
   </tr>
   <tr>
@@ -215,11 +215,11 @@
       <a href="https://github.com/fhferreira">Flávio H. Ferreira</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gustavoquinalha">
-        <img src="https://avatars2.githubusercontent.com/u/13446801" width="100px;" alt="gustavoquinalha"/>
+      <a href="https://github.com/VitorEmanuelDev">
+        <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
       </a>
       <br />
-      <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
+      <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
     </td>
     <td align="center">
       <a href="https://github.com/raisiqueira">
