@@ -106,18 +106,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/NandoKstroNet">
-        <img src="https://avatars2.githubusercontent.com/u/2506528" width="100px;" alt="NandoKstroNet"/>
-      </a>
-      <br />
-      <a href="https://github.com/NandoKstroNet">Nando Kstro Net</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/wellington1993">
         <img src="https://avatars2.githubusercontent.com/u/6920053" width="100px;" alt="wellington1993"/>
       </a>
       <br />
       <a href="https://github.com/wellington1993">Wellington Torrejais da Silva</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NandoKstroNet">
+        <img src="https://avatars2.githubusercontent.com/u/2506528" width="100px;" alt="NandoKstroNet"/>
+      </a>
+      <br />
+      <a href="https://github.com/NandoKstroNet">Nando Kstro Net</a>
     </td>
     <td align="center">
       <a href="https://github.com/thanhtoan1196">
@@ -199,27 +199,27 @@
       <a href="https://github.com/limatheus">Matheus Lima</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gustavoquinalha">
-        <img src="https://avatars2.githubusercontent.com/u/13446801" width="100px;" alt="gustavoquinalha"/>
-      </a>
-      <br />
-      <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/fhferreira">
         <img src="https://avatars2.githubusercontent.com/u/140686" width="100px;" alt="fhferreira"/>
       </a>
       <br />
       <a href="https://github.com/fhferreira">Flávio H. Ferreira</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/VitorEmanuelDev">
         <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
       </a>
       <br />
       <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gustavoquinalha">
+        <img src="https://avatars2.githubusercontent.com/u/13446801" width="100px;" alt="gustavoquinalha"/>
+      </a>
+      <br />
+      <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
     </td>
     <td align="center">
       <a href="https://github.com/raisiqueira">
