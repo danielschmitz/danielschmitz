@@ -106,18 +106,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/wellington1993">
-        <img src="https://avatars2.githubusercontent.com/u/6920053" width="100px;" alt="wellington1993"/>
-      </a>
-      <br />
-      <a href="https://github.com/wellington1993">Wellington Torrejais da Silva</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/NandoKstroNet">
         <img src="https://avatars2.githubusercontent.com/u/2506528" width="100px;" alt="NandoKstroNet"/>
       </a>
       <br />
       <a href="https://github.com/NandoKstroNet">Nando Kstro Net</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wellington1993">
+        <img src="https://avatars2.githubusercontent.com/u/6920053" width="100px;" alt="wellington1993"/>
+      </a>
+      <br />
+      <a href="https://github.com/wellington1993">Wellington Torrejais da Silva</a>
     </td>
     <td align="center">
       <a href="https://github.com/thanhtoan1196">
@@ -250,11 +250,11 @@
       <a href="https://github.com/movibe">Willian Ribeiro Angelo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/KlausDevWalker">
-        <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausDevWalker"/>
+      <a href="https://github.com/lucenarenato">
+        <img src="https://avatars2.githubusercontent.com/u/38870097" width="100px;" alt="lucenarenato"/>
       </a>
       <br />
-      <a href="https://github.com/KlausDevWalker">Klaus Ferreira</a>
+      <a href="https://github.com/lucenarenato">Renato de Oliveira Lucena</a>
     </td>
   </tr>
 </table>
