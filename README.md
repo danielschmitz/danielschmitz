@@ -171,18 +171,18 @@
       <a href="https://github.com/ktquez">Alan Ktquez</a>
     </td>
     <td align="center">
-      <a href="https://github.com/yanmagale">
-        <img src="https://avatars2.githubusercontent.com/u/5148042" width="100px;" alt="yanmagale"/>
-      </a>
-      <br />
-      <a href="https://github.com/yanmagale">Yan Magalhães</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/spekulatius">
         <img src="https://avatars2.githubusercontent.com/u/8433587" width="100px;" alt="spekulatius"/>
       </a>
       <br />
       <a href="https://github.com/spekulatius">Peter Thaleikis</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yanmagale">
+        <img src="https://avatars2.githubusercontent.com/u/5148042" width="100px;" alt="yanmagale"/>
+      </a>
+      <br />
+      <a href="https://github.com/yanmagale">Yan Magalhães</a>
     </td>
     <td align="center">
       <a href="https://github.com/esneko">
@@ -250,11 +250,11 @@
       <a href="https://github.com/movibe">Willian Ribeiro Angelo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lucenarenato">
-        <img src="https://avatars2.githubusercontent.com/u/38870097" width="100px;" alt="lucenarenato"/>
+      <a href="https://github.com/KlausDevWalker">
+        <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausDevWalker"/>
       </a>
       <br />
-      <a href="https://github.com/lucenarenato">Renato de Oliveira Lucena</a>
+      <a href="https://github.com/KlausDevWalker">Klaus Ferreira</a>
     </td>
   </tr>
 </table>
