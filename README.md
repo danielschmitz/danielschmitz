@@ -171,18 +171,18 @@
       <a href="https://github.com/ktquez">Alan Ktquez</a>
     </td>
     <td align="center">
-      <a href="https://github.com/spekulatius">
-        <img src="https://avatars2.githubusercontent.com/u/8433587" width="100px;" alt="spekulatius"/>
-      </a>
-      <br />
-      <a href="https://github.com/spekulatius">Peter Thaleikis</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/yanmagale">
         <img src="https://avatars2.githubusercontent.com/u/5148042" width="100px;" alt="yanmagale"/>
       </a>
       <br />
       <a href="https://github.com/yanmagale">Yan Magalhães</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/spekulatius">
+        <img src="https://avatars2.githubusercontent.com/u/8433587" width="100px;" alt="spekulatius"/>
+      </a>
+      <br />
+      <a href="https://github.com/spekulatius">Peter Thaleikis</a>
     </td>
     <td align="center">
       <a href="https://github.com/esneko">
@@ -199,20 +199,20 @@
       <a href="https://github.com/limatheus">Matheus Lima</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fhferreira">
-        <img src="https://avatars2.githubusercontent.com/u/140686" width="100px;" alt="fhferreira"/>
-      </a>
-      <br />
-      <a href="https://github.com/fhferreira">Flávio H. Ferreira</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/VitorEmanuelDev">
         <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
       </a>
       <br />
       <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/fhferreira">
+        <img src="https://avatars2.githubusercontent.com/u/140686" width="100px;" alt="fhferreira"/>
+      </a>
+      <br />
+      <a href="https://github.com/fhferreira">Flávio H. Ferreira</a>
     </td>
     <td align="center">
       <a href="https://github.com/gustavoquinalha">
