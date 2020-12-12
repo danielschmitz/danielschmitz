@@ -192,18 +192,18 @@
       <a href="https://github.com/esneko">Andrejs Agejevs</a>
     </td>
     <td align="center">
-      <a href="https://github.com/limatheus">
-        <img src="https://avatars2.githubusercontent.com/u/5197254" width="100px;" alt="limatheus"/>
-      </a>
-      <br />
-      <a href="https://github.com/limatheus">Matheus Lima</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/VitorEmanuelDev">
         <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
       </a>
       <br />
       <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/limatheus">
+        <img src="https://avatars2.githubusercontent.com/u/5197254" width="100px;" alt="limatheus"/>
+      </a>
+      <br />
+      <a href="https://github.com/limatheus">Matheus Lima</a>
     </td>
   </tr>
   <tr>
@@ -250,11 +250,11 @@
       <a href="https://github.com/movibe">Willian Ribeiro Angelo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/KlausDevWalker">
-        <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausDevWalker"/>
+      <a href="https://github.com/lucenarenato">
+        <img src="https://avatars2.githubusercontent.com/u/38870097" width="100px;" alt="lucenarenato"/>
       </a>
       <br />
-      <a href="https://github.com/KlausDevWalker">Klaus Ferreira</a>
+      <a href="https://github.com/lucenarenato">Renato de Oliveira Lucena</a>
     </td>
   </tr>
 </table>
