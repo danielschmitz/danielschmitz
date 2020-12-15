@@ -236,6 +236,13 @@
       <a href="https://github.com/IgorDePaula">Igor C. de Paula</a>
     </td>
     <td align="center">
+      <a href="https://github.com/0xb0b1">
+        <img src="https://avatars2.githubusercontent.com/u/35732793" width="100px;" alt="0xb0b1"/>
+      </a>
+      <br />
+      <a href="https://github.com/0xb0b1">Paulo Vicente</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/muniz95">
         <img src="https://avatars2.githubusercontent.com/u/4670954" width="100px;" alt="muniz95"/>
       </a>
@@ -248,13 +255,6 @@
       </a>
       <br />
       <a href="https://github.com/movibe">Willian Ribeiro Angelo</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lucenarenato">
-        <img src="https://avatars2.githubusercontent.com/u/38870097" width="100px;" alt="lucenarenato"/>
-      </a>
-      <br />
-      <a href="https://github.com/lucenarenato">Renato de Oliveira Lucena</a>
     </td>
   </tr>
 </table>
