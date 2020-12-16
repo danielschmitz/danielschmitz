@@ -222,6 +222,13 @@
       <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
     </td>
     <td align="center">
+      <a href="https://github.com/0xb0b1">
+        <img src="https://avatars2.githubusercontent.com/u/35732793" width="100px;" alt="0xb0b1"/>
+      </a>
+      <br />
+      <a href="https://github.com/0xb0b1">Paulo Vicente</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/raisiqueira">
         <img src="https://avatars2.githubusercontent.com/u/2914170" width="100px;" alt="raisiqueira"/>
       </a>
@@ -234,13 +241,6 @@
       </a>
       <br />
       <a href="https://github.com/IgorDePaula">Igor C. de Paula</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/0xb0b1">
-        <img src="https://avatars2.githubusercontent.com/u/35732793" width="100px;" alt="0xb0b1"/>
-      </a>
-      <br />
-      <a href="https://github.com/0xb0b1">Paulo Vicente</a>
     </td>
     <td align="center">
       <a href="https://github.com/muniz95">
