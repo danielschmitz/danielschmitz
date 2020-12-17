@@ -215,18 +215,18 @@
       <a href="https://github.com/fhferreira">Flávio H. Ferreira</a>
     </td>
     <td align="center">
+      <a href="https://github.com/0xb0b1">
+        <img src="https://avatars2.githubusercontent.com/u/35732793" width="100px;" alt="0xb0b1"/>
+      </a>
+      <br />
+      <a href="https://github.com/0xb0b1">Paulo Vicente Ribeiro Neto</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/gustavoquinalha">
         <img src="https://avatars2.githubusercontent.com/u/13446801" width="100px;" alt="gustavoquinalha"/>
       </a>
       <br />
       <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/0xb0b1">
-        <img src="https://avatars2.githubusercontent.com/u/35732793" width="100px;" alt="0xb0b1"/>
-      </a>
-      <br />
-      <a href="https://github.com/0xb0b1">Paulo Vicente</a>
     </td>
     <td align="center">
       <a href="https://github.com/raisiqueira">
