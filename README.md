@@ -106,18 +106,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/NandoKstroNet">
-        <img src="https://avatars2.githubusercontent.com/u/2506528" width="100px;" alt="NandoKstroNet"/>
-      </a>
-      <br />
-      <a href="https://github.com/NandoKstroNet">Nando Kstro Net</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/wellington1993">
         <img src="https://avatars2.githubusercontent.com/u/6920053" width="100px;" alt="wellington1993"/>
       </a>
       <br />
       <a href="https://github.com/wellington1993">Wellington Torrejais da Silva</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NandoKstroNet">
+        <img src="https://avatars2.githubusercontent.com/u/2506528" width="100px;" alt="NandoKstroNet"/>
+      </a>
+      <br />
+      <a href="https://github.com/NandoKstroNet">Nando Kstro Net</a>
     </td>
     <td align="center">
       <a href="https://github.com/thanhtoan1196">
@@ -192,12 +192,21 @@
       <a href="https://github.com/esneko">Andrejs Agejevs</a>
     </td>
     <td align="center">
+      <a href="https://github.com/0xb0b1">
+        <img src="https://avatars2.githubusercontent.com/u/35732793" width="100px;" alt="0xb0b1"/>
+      </a>
+      <br />
+      <a href="https://github.com/0xb0b1">Paulo Vicente Ribeiro Neto</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/VitorEmanuelDev">
         <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
       </a>
       <br />
       <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/limatheus">
         <img src="https://avatars2.githubusercontent.com/u/5197254" width="100px;" alt="limatheus"/>
@@ -205,21 +214,12 @@
       <br />
       <a href="https://github.com/limatheus">Matheus Lima</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/fhferreira">
         <img src="https://avatars2.githubusercontent.com/u/140686" width="100px;" alt="fhferreira"/>
       </a>
       <br />
       <a href="https://github.com/fhferreira">Flávio H. Ferreira</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/0xb0b1">
-        <img src="https://avatars2.githubusercontent.com/u/35732793" width="100px;" alt="0xb0b1"/>
-      </a>
-      <br />
-      <a href="https://github.com/0xb0b1">Paulo Vicente Ribeiro Neto</a>
     </td>
     <td align="center">
       <a href="https://github.com/gustavoquinalha">
