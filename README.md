@@ -222,18 +222,18 @@
       <a href="https://github.com/fhferreira">Flávio H. Ferreira</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gustavoquinalha">
-        <img src="https://avatars2.githubusercontent.com/u/13446801" width="100px;" alt="gustavoquinalha"/>
-      </a>
-      <br />
-      <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/raisiqueira">
         <img src="https://avatars2.githubusercontent.com/u/2914170" width="100px;" alt="raisiqueira"/>
       </a>
       <br />
       <a href="https://github.com/raisiqueira">Raí Siqueira</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gustavoquinalha">
+        <img src="https://avatars2.githubusercontent.com/u/13446801" width="100px;" alt="gustavoquinalha"/>
+      </a>
+      <br />
+      <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
     </td>
     <td align="center">
       <a href="https://github.com/IgorDePaula">
