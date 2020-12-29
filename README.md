@@ -113,18 +113,18 @@
       <a href="https://github.com/NandoKstroNet">Nando Kstro Net</a>
     </td>
     <td align="center">
-      <a href="https://github.com/wellington1993">
-        <img src="https://avatars2.githubusercontent.com/u/6920053" width="100px;" alt="wellington1993"/>
-      </a>
-      <br />
-      <a href="https://github.com/wellington1993">Wellington Torrejais da Silva</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/thanhtoan1196">
         <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
       </a>
       <br />
       <a href="https://github.com/thanhtoan1196">Toan Tran</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wellington1993">
+        <img src="https://avatars2.githubusercontent.com/u/6920053" width="100px;" alt="wellington1993"/>
+      </a>
+      <br />
+      <a href="https://github.com/wellington1993">Wellington Torrejais da Silva</a>
     </td>
     <td align="center">
       <a href="https://github.com/smart-u">
@@ -185,18 +185,18 @@
       <a href="https://github.com/yanmagale">Yan Magalhães</a>
     </td>
     <td align="center">
-      <a href="https://github.com/esneko">
-        <img src="https://avatars2.githubusercontent.com/u/64329" width="100px;" alt="esneko"/>
-      </a>
-      <br />
-      <a href="https://github.com/esneko">Andrejs Agejevs</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/0xb0b1">
         <img src="https://avatars2.githubusercontent.com/u/35732793" width="100px;" alt="0xb0b1"/>
       </a>
       <br />
       <a href="https://github.com/0xb0b1">Paulo Vicente Ribeiro Neto</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/esneko">
+        <img src="https://avatars2.githubusercontent.com/u/64329" width="100px;" alt="esneko"/>
+      </a>
+      <br />
+      <a href="https://github.com/esneko">Andrejs Agejevs</a>
     </td>
     <td align="center">
       <a href="https://github.com/VitorEmanuelDev">
