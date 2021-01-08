@@ -157,18 +157,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/swhgoon">
-        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
-      </a>
-      <br />
-      <a href="https://github.com/swhgoon">SwhGo_oN</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ktquez">
         <img src="https://avatars2.githubusercontent.com/u/8084606" width="100px;" alt="ktquez"/>
       </a>
       <br />
       <a href="https://github.com/ktquez">Alan Ktquez</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/swhgoon">
+        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
+      </a>
+      <br />
+      <a href="https://github.com/swhgoon">SwhGo_oN</a>
     </td>
     <td align="center">
       <a href="https://github.com/spekulatius">
@@ -229,18 +229,18 @@
       <a href="https://github.com/raisiqueira">Raí Siqueira</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gustavoquinalha">
-        <img src="https://avatars2.githubusercontent.com/u/13446801" width="100px;" alt="gustavoquinalha"/>
-      </a>
-      <br />
-      <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/IgorDePaula">
         <img src="https://avatars2.githubusercontent.com/u/2833993" width="100px;" alt="IgorDePaula"/>
       </a>
       <br />
       <a href="https://github.com/IgorDePaula">Igor C. de Paula</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gustavoquinalha">
+        <img src="https://avatars2.githubusercontent.com/u/13446801" width="100px;" alt="gustavoquinalha"/>
+      </a>
+      <br />
+      <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
     </td>
     <td align="center">
       <a href="https://github.com/muniz95">
