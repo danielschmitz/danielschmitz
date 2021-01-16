@@ -250,11 +250,11 @@
       <a href="https://github.com/muniz95">Rodrigo Muniz</a>
     </td>
     <td align="center">
-      <a href="https://github.com/movibe">
-        <img src="https://avatars2.githubusercontent.com/u/1755489" width="100px;" alt="movibe"/>
+      <a href="https://github.com/the-one-who-knoccks">
+        <img src="https://avatars2.githubusercontent.com/u/54867997" width="100px;" alt="the-one-who-knoccks"/>
       </a>
       <br />
-      <a href="https://github.com/movibe">Willian Ribeiro Angelo</a>
+      <a href="https://github.com/the-one-who-knoccks">Thiago Alves</a>
     </td>
   </tr>
 </table>
