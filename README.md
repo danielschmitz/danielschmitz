@@ -199,27 +199,27 @@
       <a href="https://github.com/esneko">Andrejs Agejevs</a>
     </td>
     <td align="center">
-      <a href="https://github.com/limatheus">
-        <img src="https://avatars2.githubusercontent.com/u/5197254" width="100px;" alt="limatheus"/>
-      </a>
-      <br />
-      <a href="https://github.com/limatheus">Matheus Lima</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/fhferreira">
         <img src="https://avatars2.githubusercontent.com/u/140686" width="100px;" alt="fhferreira"/>
       </a>
       <br />
       <a href="https://github.com/fhferreira">Flávio H. Ferreira</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/VitorEmanuelDev">
         <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
       </a>
       <br />
       <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/limatheus">
+        <img src="https://avatars2.githubusercontent.com/u/5197254" width="100px;" alt="limatheus"/>
+      </a>
+      <br />
+      <a href="https://github.com/limatheus">Matheus Lima</a>
     </td>
     <td align="center">
       <a href="https://github.com/raisiqueira">
