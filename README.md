@@ -106,18 +106,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/thanhtoan1196">
-        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
-      </a>
-      <br />
-      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/NandoKstroNet">
         <img src="https://avatars2.githubusercontent.com/u/2506528" width="100px;" alt="NandoKstroNet"/>
       </a>
       <br />
       <a href="https://github.com/NandoKstroNet">Nando Kstro Net</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/thanhtoan1196">
+        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
+      </a>
+      <br />
+      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
     </td>
     <td align="center">
       <a href="https://github.com/wellington1993">
@@ -164,18 +164,18 @@
       <a href="https://github.com/ktquez">Alan Ktquez</a>
     </td>
     <td align="center">
-      <a href="https://github.com/swhgoon">
-        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
-      </a>
-      <br />
-      <a href="https://github.com/swhgoon">SwhGo_oN</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/spekulatius">
         <img src="https://avatars2.githubusercontent.com/u/8433587" width="100px;" alt="spekulatius"/>
       </a>
       <br />
       <a href="https://github.com/spekulatius">Peter Thaleikis</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/swhgoon">
+        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
+      </a>
+      <br />
+      <a href="https://github.com/swhgoon">SwhGo_oN</a>
     </td>
     <td align="center">
       <a href="https://github.com/0xb0b1">
@@ -215,18 +215,18 @@
       <a href="https://github.com/raisiqueira">Raí Siqueira</a>
     </td>
     <td align="center">
-      <a href="https://github.com/limatheus">
-        <img src="https://avatars2.githubusercontent.com/u/5197254" width="100px;" alt="limatheus"/>
-      </a>
-      <br />
-      <a href="https://github.com/limatheus">Matheus Lima</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/VitorEmanuelDev">
         <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
       </a>
       <br />
       <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/limatheus">
+        <img src="https://avatars2.githubusercontent.com/u/5197254" width="100px;" alt="limatheus"/>
+      </a>
+      <br />
+      <a href="https://github.com/limatheus">Matheus Lima</a>
     </td>
     <td align="center">
       <a href="https://github.com/IgorDePaula">
