@@ -97,20 +97,20 @@
       <a href="https://github.com/josemalcher">José Stélio R. Malcher Junior</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rogeriopradoj">
-        <img src="https://avatars2.githubusercontent.com/u/443391" width="100px;" alt="rogeriopradoj"/>
-      </a>
-      <br />
-      <a href="https://github.com/rogeriopradoj">Rogerio Prado de Jesus</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/thanhtoan1196">
         <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
       </a>
       <br />
       <a href="https://github.com/thanhtoan1196">Toan Tran</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/rogeriopradoj">
+        <img src="https://avatars2.githubusercontent.com/u/443391" width="100px;" alt="rogeriopradoj"/>
+      </a>
+      <br />
+      <a href="https://github.com/rogeriopradoj">Rogerio Prado de Jesus</a>
     </td>
     <td align="center">
       <a href="https://github.com/NandoKstroNet">
