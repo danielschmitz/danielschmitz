@@ -208,18 +208,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/raisiqueira">
-        <img src="https://avatars2.githubusercontent.com/u/2914170" width="100px;" alt="raisiqueira"/>
-      </a>
-      <br />
-      <a href="https://github.com/raisiqueira">Raí Siqueira</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/VitorEmanuelDev">
         <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
       </a>
       <br />
       <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/raisiqueira">
+        <img src="https://avatars2.githubusercontent.com/u/2914170" width="100px;" alt="raisiqueira"/>
+      </a>
+      <br />
+      <a href="https://github.com/raisiqueira">Raí Siqueira</a>
     </td>
     <td align="center">
       <a href="https://github.com/limatheus">
