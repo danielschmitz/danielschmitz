@@ -106,18 +106,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/rogeriopradoj">
-        <img src="https://avatars2.githubusercontent.com/u/443391" width="100px;" alt="rogeriopradoj"/>
-      </a>
-      <br />
-      <a href="https://github.com/rogeriopradoj">Rogerio Prado de Jesus</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/NandoKstroNet">
         <img src="https://avatars2.githubusercontent.com/u/2506528" width="100px;" alt="NandoKstroNet"/>
       </a>
       <br />
       <a href="https://github.com/NandoKstroNet">Nando Kstro Net</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rogeriopradoj">
+        <img src="https://avatars2.githubusercontent.com/u/443391" width="100px;" alt="rogeriopradoj"/>
+      </a>
+      <br />
+      <a href="https://github.com/rogeriopradoj">Rogerio Prado de Jesus</a>
     </td>
     <td align="center">
       <a href="https://github.com/wellington1993">
@@ -185,18 +185,18 @@
       <a href="https://github.com/0xb0b1">Paulo Vicente Ribeiro Neto</a>
     </td>
     <td align="center">
-      <a href="https://github.com/yanmagale">
-        <img src="https://avatars2.githubusercontent.com/u/5148042" width="100px;" alt="yanmagale"/>
-      </a>
-      <br />
-      <a href="https://github.com/yanmagale">Yan Magalhães</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/esneko">
         <img src="https://avatars2.githubusercontent.com/u/64329" width="100px;" alt="esneko"/>
       </a>
       <br />
       <a href="https://github.com/esneko">Andrejs Agejevs</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yanmagale">
+        <img src="https://avatars2.githubusercontent.com/u/5148042" width="100px;" alt="yanmagale"/>
+      </a>
+      <br />
+      <a href="https://github.com/yanmagale">Yan Magalhães</a>
     </td>
     <td align="center">
       <a href="https://github.com/fhferreira">
