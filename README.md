@@ -236,13 +236,6 @@
       <a href="https://github.com/IgorDePaula">Igor C. de Paula</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gustavoquinalha">
-        <img src="https://avatars2.githubusercontent.com/u/13446801" width="100px;" alt="gustavoquinalha"/>
-      </a>
-      <br />
-      <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/the-one-who-knoccks">
         <img src="https://avatars2.githubusercontent.com/u/54867997" width="100px;" alt="the-one-who-knoccks"/>
       </a>
@@ -250,11 +243,18 @@
       <a href="https://github.com/the-one-who-knoccks">Thiago Alves</a>
     </td>
     <td align="center">
-      <a href="https://github.com/muniz95">
-        <img src="https://avatars2.githubusercontent.com/u/4670954" width="100px;" alt="muniz95"/>
+      <a href="https://github.com/gustavoquinalha">
+        <img src="https://avatars2.githubusercontent.com/u/13446801" width="100px;" alt="gustavoquinalha"/>
       </a>
       <br />
-      <a href="https://github.com/muniz95">Rodrigo Muniz</a>
+      <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KlausDevWalker">
+        <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausDevWalker"/>
+      </a>
+      <br />
+      <a href="https://github.com/KlausDevWalker">Klaus Ferreira</a>
     </td>
   </tr>
 </table>
