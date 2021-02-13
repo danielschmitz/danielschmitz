@@ -106,18 +106,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/NandoKstroNet">
-        <img src="https://avatars2.githubusercontent.com/u/2506528" width="100px;" alt="NandoKstroNet"/>
-      </a>
-      <br />
-      <a href="https://github.com/NandoKstroNet">Nando Kstro Net</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rogeriopradoj">
         <img src="https://avatars2.githubusercontent.com/u/443391" width="100px;" alt="rogeriopradoj"/>
       </a>
       <br />
       <a href="https://github.com/rogeriopradoj">Rogerio Prado de Jesus</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NandoKstroNet">
+        <img src="https://avatars2.githubusercontent.com/u/2506528" width="100px;" alt="NandoKstroNet"/>
+      </a>
+      <br />
+      <a href="https://github.com/NandoKstroNet">Nando Kstro Net</a>
     </td>
     <td align="center">
       <a href="https://github.com/wellington1993">
@@ -164,18 +164,18 @@
       <a href="https://github.com/ktquez">Alan Ktquez</a>
     </td>
     <td align="center">
-      <a href="https://github.com/spekulatius">
-        <img src="https://avatars2.githubusercontent.com/u/8433587" width="100px;" alt="spekulatius"/>
-      </a>
-      <br />
-      <a href="https://github.com/spekulatius">Peter Thaleikis</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/swhgoon">
         <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
       </a>
       <br />
       <a href="https://github.com/swhgoon">SwhGo_oN</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/spekulatius">
+        <img src="https://avatars2.githubusercontent.com/u/8433587" width="100px;" alt="spekulatius"/>
+      </a>
+      <br />
+      <a href="https://github.com/spekulatius">Peter Thaleikis</a>
     </td>
     <td align="center">
       <a href="https://github.com/0xb0b1">
@@ -250,11 +250,11 @@
       <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
     </td>
     <td align="center">
-      <a href="https://github.com/KlausDevWalker">
-        <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausDevWalker"/>
+      <a href="https://github.com/muniz95">
+        <img src="https://avatars2.githubusercontent.com/u/4670954" width="100px;" alt="muniz95"/>
       </a>
       <br />
-      <a href="https://github.com/KlausDevWalker">Klaus Ferreira</a>
+      <a href="https://github.com/muniz95">Rodrigo Muniz</a>
     </td>
   </tr>
 </table>
