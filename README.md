@@ -148,20 +148,20 @@
       <a href="https://github.com/wilcorrea">William Correa</a>
     </td>
     <td align="center">
-      <a href="https://github.com/danilolutz">
-        <img src="https://avatars2.githubusercontent.com/u/1561739" width="100px;" alt="danilolutz"/>
-      </a>
-      <br />
-      <a href="https://github.com/danilolutz">Danilo Lutz</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/ktquez">
         <img src="https://avatars2.githubusercontent.com/u/8084606" width="100px;" alt="ktquez"/>
       </a>
       <br />
       <a href="https://github.com/ktquez">Alan Ktquez</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/danilolutz">
+        <img src="https://avatars2.githubusercontent.com/u/1561739" width="100px;" alt="danilolutz"/>
+      </a>
+      <br />
+      <a href="https://github.com/danilolutz">Danilo Lutz</a>
     </td>
     <td align="center">
       <a href="https://github.com/swhgoon">
@@ -250,11 +250,11 @@
       <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
     </td>
     <td align="center">
-      <a href="https://github.com/KlausDevWalker">
-        <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausDevWalker"/>
+      <a href="https://github.com/muniz95">
+        <img src="https://avatars2.githubusercontent.com/u/4670954" width="100px;" alt="muniz95"/>
       </a>
       <br />
-      <a href="https://github.com/KlausDevWalker">Klaus Ferreira</a>
+      <a href="https://github.com/muniz95">Rodrigo Muniz</a>
     </td>
   </tr>
 </table>
