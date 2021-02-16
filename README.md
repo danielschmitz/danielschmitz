@@ -185,18 +185,18 @@
       <a href="https://github.com/0xb0b1">Paulo Vicente Ribeiro Neto</a>
     </td>
     <td align="center">
-      <a href="https://github.com/esneko">
-        <img src="https://avatars2.githubusercontent.com/u/64329" width="100px;" alt="esneko"/>
-      </a>
-      <br />
-      <a href="https://github.com/esneko">Andrejs Agejevs</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/yanmagale">
         <img src="https://avatars2.githubusercontent.com/u/5148042" width="100px;" alt="yanmagale"/>
       </a>
       <br />
       <a href="https://github.com/yanmagale">Yan Magalhães</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/esneko">
+        <img src="https://avatars2.githubusercontent.com/u/64329" width="100px;" alt="esneko"/>
+      </a>
+      <br />
+      <a href="https://github.com/esneko">Andrejs Agejevs</a>
     </td>
     <td align="center">
       <a href="https://github.com/fhferreira">
@@ -222,11 +222,11 @@
       <a href="https://github.com/raisiqueira">Raí Siqueira</a>
     </td>
     <td align="center">
-      <a href="https://github.com/IgorDePaula">
-        <img src="https://avatars2.githubusercontent.com/u/2833993" width="100px;" alt="IgorDePaula"/>
+      <a href="https://github.com/the-one-who-knoccks">
+        <img src="https://avatars2.githubusercontent.com/u/54867997" width="100px;" alt="the-one-who-knoccks"/>
       </a>
       <br />
-      <a href="https://github.com/IgorDePaula">Igor C. de Paula</a>
+      <a href="https://github.com/the-one-who-knoccks">Thiago Alves</a>
     </td>
     <td align="center">
       <a href="https://github.com/limatheus">
@@ -236,11 +236,11 @@
       <a href="https://github.com/limatheus">Matheus Lima</a>
     </td>
     <td align="center">
-      <a href="https://github.com/the-one-who-knoccks">
-        <img src="https://avatars2.githubusercontent.com/u/54867997" width="100px;" alt="the-one-who-knoccks"/>
+      <a href="https://github.com/IgorDePaula">
+        <img src="https://avatars2.githubusercontent.com/u/2833993" width="100px;" alt="IgorDePaula"/>
       </a>
       <br />
-      <a href="https://github.com/the-one-who-knoccks">Thiago Alves</a>
+      <a href="https://github.com/IgorDePaula">Igor C. de Paula</a>
     </td>
     <td align="center">
       <a href="https://github.com/gustavoquinalha">
