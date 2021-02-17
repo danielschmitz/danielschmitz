@@ -148,27 +148,20 @@
       <a href="https://github.com/wilcorrea">William Correa</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ktquez">
-        <img src="https://avatars2.githubusercontent.com/u/8084606" width="100px;" alt="ktquez"/>
-      </a>
-      <br />
-      <a href="https://github.com/ktquez">Alan Ktquez</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/danilolutz">
         <img src="https://avatars2.githubusercontent.com/u/1561739" width="100px;" alt="danilolutz"/>
       </a>
       <br />
       <a href="https://github.com/danilolutz">Danilo Lutz</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <a href="https://github.com/swhgoon">
-        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
+      <a href="https://github.com/ktquez">
+        <img src="https://avatars2.githubusercontent.com/u/8084606" width="100px;" alt="ktquez"/>
       </a>
       <br />
-      <a href="https://github.com/swhgoon">SwhGo_oN</a>
+      <a href="https://github.com/ktquez">Alan Ktquez</a>
     </td>
     <td align="center">
       <a href="https://github.com/spekulatius">
@@ -176,6 +169,13 @@
       </a>
       <br />
       <a href="https://github.com/spekulatius">Peter Thaleikis</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/swhgoon">
+        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
+      </a>
+      <br />
+      <a href="https://github.com/swhgoon">SwhGo_oN</a>
     </td>
     <td align="center">
       <a href="https://github.com/0xb0b1">
@@ -215,18 +215,18 @@
       <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
     </td>
     <td align="center">
-      <a href="https://github.com/raisiqueira">
-        <img src="https://avatars2.githubusercontent.com/u/2914170" width="100px;" alt="raisiqueira"/>
-      </a>
-      <br />
-      <a href="https://github.com/raisiqueira">Raí Siqueira</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/the-one-who-knoccks">
         <img src="https://avatars2.githubusercontent.com/u/54867997" width="100px;" alt="the-one-who-knoccks"/>
       </a>
       <br />
       <a href="https://github.com/the-one-who-knoccks">Thiago Alves</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/raisiqueira">
+        <img src="https://avatars2.githubusercontent.com/u/2914170" width="100px;" alt="raisiqueira"/>
+      </a>
+      <br />
+      <a href="https://github.com/raisiqueira">Raí Siqueira</a>
     </td>
     <td align="center">
       <a href="https://github.com/limatheus">
