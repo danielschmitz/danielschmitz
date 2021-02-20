@@ -120,18 +120,18 @@
       <a href="https://github.com/rogeriopradoj">Rogerio Prado de Jesus</a>
     </td>
     <td align="center">
-      <a href="https://github.com/smart-u">
-        <img src="https://avatars2.githubusercontent.com/u/58533323" width="100px;" alt="smart-u"/>
-      </a>
-      <br />
-      <a href="https://github.com/smart-u">Alex Xu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/wellington1993">
         <img src="https://avatars2.githubusercontent.com/u/6920053" width="100px;" alt="wellington1993"/>
       </a>
       <br />
       <a href="https://github.com/wellington1993">Wellington Torrejais da Silva</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/smart-u">
+        <img src="https://avatars2.githubusercontent.com/u/58533323" width="100px;" alt="smart-u"/>
+      </a>
+      <br />
+      <a href="https://github.com/smart-u">Alex Xu</a>
     </td>
     <td align="center">
       <a href="https://github.com/JoseCage">
@@ -208,18 +208,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/VitorEmanuelDev">
-        <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
-      </a>
-      <br />
-      <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/the-one-who-knoccks">
         <img src="https://avatars2.githubusercontent.com/u/54867997" width="100px;" alt="the-one-who-knoccks"/>
       </a>
       <br />
       <a href="https://github.com/the-one-who-knoccks">Thiago Alves</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/VitorEmanuelDev">
+        <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
+      </a>
+      <br />
+      <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
     </td>
     <td align="center">
       <a href="https://github.com/raisiqueira">
