@@ -164,18 +164,18 @@
       <a href="https://github.com/danilolutz">Danilo Lutz</a>
     </td>
     <td align="center">
-      <a href="https://github.com/swhgoon">
-        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
-      </a>
-      <br />
-      <a href="https://github.com/swhgoon">SwhGo_oN</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/spekulatius">
         <img src="https://avatars2.githubusercontent.com/u/8433587" width="100px;" alt="spekulatius"/>
       </a>
       <br />
       <a href="https://github.com/spekulatius">Peter Thaleikis</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/swhgoon">
+        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
+      </a>
+      <br />
+      <a href="https://github.com/swhgoon">SwhGo_oN</a>
     </td>
     <td align="center">
       <a href="https://github.com/0xb0b1">
@@ -208,18 +208,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/the-one-who-knoccks">
-        <img src="https://avatars2.githubusercontent.com/u/54867997" width="100px;" alt="the-one-who-knoccks"/>
-      </a>
-      <br />
-      <a href="https://github.com/the-one-who-knoccks">Thiago Alves</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/VitorEmanuelDev">
         <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
       </a>
       <br />
       <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/the-one-who-knoccks">
+        <img src="https://avatars2.githubusercontent.com/u/54867997" width="100px;" alt="the-one-who-knoccks"/>
+      </a>
+      <br />
+      <a href="https://github.com/the-one-who-knoccks">Thiago Alves</a>
     </td>
     <td align="center">
       <a href="https://github.com/raisiqueira">
