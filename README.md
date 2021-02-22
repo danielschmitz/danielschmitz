@@ -164,6 +164,13 @@
       <a href="https://github.com/danilolutz">Danilo Lutz</a>
     </td>
     <td align="center">
+      <a href="https://github.com/0xb0b1">
+        <img src="https://avatars2.githubusercontent.com/u/35732793" width="100px;" alt="0xb0b1"/>
+      </a>
+      <br />
+      <a href="https://github.com/0xb0b1">Paulo Vicente Ribeiro Neto</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/spekulatius">
         <img src="https://avatars2.githubusercontent.com/u/8433587" width="100px;" alt="spekulatius"/>
       </a>
@@ -176,13 +183,6 @@
       </a>
       <br />
       <a href="https://github.com/swhgoon">SwhGo_oN</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/0xb0b1">
-        <img src="https://avatars2.githubusercontent.com/u/35732793" width="100px;" alt="0xb0b1"/>
-      </a>
-      <br />
-      <a href="https://github.com/0xb0b1">Paulo Vicente Ribeiro Neto</a>
     </td>
     <td align="center">
       <a href="https://github.com/yanmagale">
@@ -208,18 +208,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/VitorEmanuelDev">
-        <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
-      </a>
-      <br />
-      <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/the-one-who-knoccks">
         <img src="https://avatars2.githubusercontent.com/u/54867997" width="100px;" alt="the-one-who-knoccks"/>
       </a>
       <br />
       <a href="https://github.com/the-one-who-knoccks">Thiago Alves</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/VitorEmanuelDev">
+        <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
+      </a>
+      <br />
+      <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
     </td>
     <td align="center">
       <a href="https://github.com/raisiqueira">
