@@ -171,18 +171,18 @@
       <a href="https://github.com/0xb0b1">Paulo Vicente Ribeiro Neto</a>
     </td>
     <td align="center">
-      <a href="https://github.com/spekulatius">
-        <img src="https://avatars2.githubusercontent.com/u/8433587" width="100px;" alt="spekulatius"/>
-      </a>
-      <br />
-      <a href="https://github.com/spekulatius">Peter Thaleikis</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/swhgoon">
         <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
       </a>
       <br />
       <a href="https://github.com/swhgoon">SwhGo_oN</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/spekulatius">
+        <img src="https://avatars2.githubusercontent.com/u/8433587" width="100px;" alt="spekulatius"/>
+      </a>
+      <br />
+      <a href="https://github.com/spekulatius">Peter Thaleikis</a>
     </td>
     <td align="center">
       <a href="https://github.com/esneko">
@@ -192,18 +192,18 @@
       <a href="https://github.com/esneko">Andrejs Agejevs</a>
     </td>
     <td align="center">
-      <a href="https://github.com/yanmagale">
-        <img src="https://avatars2.githubusercontent.com/u/5148042" width="100px;" alt="yanmagale"/>
-      </a>
-      <br />
-      <a href="https://github.com/yanmagale">Yan Magalhães</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/the-one-who-knoccks">
         <img src="https://avatars2.githubusercontent.com/u/54867997" width="100px;" alt="the-one-who-knoccks"/>
       </a>
       <br />
       <a href="https://github.com/the-one-who-knoccks">Thiago Alves</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yanmagale">
+        <img src="https://avatars2.githubusercontent.com/u/5148042" width="100px;" alt="yanmagale"/>
+      </a>
+      <br />
+      <a href="https://github.com/yanmagale">Yan Magalhães</a>
     </td>
   </tr>
   <tr>
