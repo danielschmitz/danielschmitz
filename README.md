@@ -157,18 +157,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/danilolutz">
-        <img src="https://avatars2.githubusercontent.com/u/1561739" width="100px;" alt="danilolutz"/>
-      </a>
-      <br />
-      <a href="https://github.com/danilolutz">Danilo Lutz</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/0xb0b1">
         <img src="https://avatars2.githubusercontent.com/u/35732793" width="100px;" alt="0xb0b1"/>
       </a>
       <br />
       <a href="https://github.com/0xb0b1">Paulo Vicente Ribeiro Neto</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/danilolutz">
+        <img src="https://avatars2.githubusercontent.com/u/1561739" width="100px;" alt="danilolutz"/>
+      </a>
+      <br />
+      <a href="https://github.com/danilolutz">Danilo Lutz</a>
     </td>
     <td align="center">
       <a href="https://github.com/spekulatius">
@@ -192,27 +192,27 @@
       <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
     </td>
     <td align="center">
-      <a href="https://github.com/esneko">
-        <img src="https://avatars2.githubusercontent.com/u/64329" width="100px;" alt="esneko"/>
-      </a>
-      <br />
-      <a href="https://github.com/esneko">Andrejs Agejevs</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/the-one-who-knoccks">
         <img src="https://avatars2.githubusercontent.com/u/54867997" width="100px;" alt="the-one-who-knoccks"/>
       </a>
       <br />
       <a href="https://github.com/the-one-who-knoccks">Thiago Alves</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/yanmagale">
         <img src="https://avatars2.githubusercontent.com/u/5148042" width="100px;" alt="yanmagale"/>
       </a>
       <br />
       <a href="https://github.com/yanmagale">Yan Magalhães</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/esneko">
+        <img src="https://avatars2.githubusercontent.com/u/64329" width="100px;" alt="esneko"/>
+      </a>
+      <br />
+      <a href="https://github.com/esneko">Andrejs Agejevs</a>
     </td>
     <td align="center">
       <a href="https://github.com/fhferreira">
