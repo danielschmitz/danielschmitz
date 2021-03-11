@@ -199,20 +199,20 @@
       <a href="https://github.com/the-one-who-knoccks">Thiago Alves</a>
     </td>
     <td align="center">
-      <a href="https://github.com/yanmagale">
-        <img src="https://avatars2.githubusercontent.com/u/5148042" width="100px;" alt="yanmagale"/>
-      </a>
-      <br />
-      <a href="https://github.com/yanmagale">Yan Magalhães</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/esneko">
         <img src="https://avatars2.githubusercontent.com/u/64329" width="100px;" alt="esneko"/>
       </a>
       <br />
       <a href="https://github.com/esneko">Andrejs Agejevs</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yanmagale">
+        <img src="https://avatars2.githubusercontent.com/u/5148042" width="100px;" alt="yanmagale"/>
+      </a>
+      <br />
+      <a href="https://github.com/yanmagale">Yan Magalhães</a>
     </td>
     <td align="center">
       <a href="https://github.com/fhferreira">
