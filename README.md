@@ -250,11 +250,11 @@
       <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lanastasov">
-        <img src="https://avatars2.githubusercontent.com/u/385682" width="100px;" alt="lanastasov"/>
+      <a href="https://github.com/KlausDevWalker">
+        <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausDevWalker"/>
       </a>
       <br />
-      <a href="https://github.com/lanastasov">lanastasov</a>
+      <a href="https://github.com/KlausDevWalker">Klaus Ferreira</a>
     </td>
   </tr>
 </table>
