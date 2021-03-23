@@ -134,18 +134,18 @@
       <a href="https://github.com/smart-u">Alex Xu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/JoseCage">
-        <img src="https://avatars2.githubusercontent.com/u/4200487" width="100px;" alt="JoseCage"/>
-      </a>
-      <br />
-      <a href="https://github.com/JoseCage">José Cage </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/wilcorrea">
         <img src="https://avatars2.githubusercontent.com/u/803733" width="100px;" alt="wilcorrea"/>
       </a>
       <br />
       <a href="https://github.com/wilcorrea">William Correa</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JoseCage">
+        <img src="https://avatars2.githubusercontent.com/u/4200487" width="100px;" alt="JoseCage"/>
+      </a>
+      <br />
+      <a href="https://github.com/JoseCage">José Cage </a>
     </td>
     <td align="center">
       <a href="https://github.com/ktquez">
@@ -243,18 +243,18 @@
       <a href="https://github.com/raisiqueira">Raí Siqueira</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gustavoquinalha">
-        <img src="https://avatars2.githubusercontent.com/u/13446801" width="100px;" alt="gustavoquinalha"/>
-      </a>
-      <br />
-      <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/KlausDevWalker">
         <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausDevWalker"/>
       </a>
       <br />
       <a href="https://github.com/KlausDevWalker">Klaus Ferreira</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gustavoquinalha">
+        <img src="https://avatars2.githubusercontent.com/u/13446801" width="100px;" alt="gustavoquinalha"/>
+      </a>
+      <br />
+      <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
     </td>
   </tr>
 </table>
