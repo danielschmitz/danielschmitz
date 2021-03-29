@@ -134,18 +134,18 @@
       <a href="https://github.com/smart-u">Alex Xu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/JoseCage">
-        <img src="https://avatars2.githubusercontent.com/u/4200487" width="100px;" alt="JoseCage"/>
-      </a>
-      <br />
-      <a href="https://github.com/JoseCage">José Cage </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/wilcorrea">
         <img src="https://avatars2.githubusercontent.com/u/803733" width="100px;" alt="wilcorrea"/>
       </a>
       <br />
       <a href="https://github.com/wilcorrea">William Correa</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JoseCage">
+        <img src="https://avatars2.githubusercontent.com/u/4200487" width="100px;" alt="JoseCage"/>
+      </a>
+      <br />
+      <a href="https://github.com/JoseCage">José Cage </a>
     </td>
     <td align="center">
       <a href="https://github.com/0xb0b1">
