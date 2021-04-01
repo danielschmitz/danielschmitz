@@ -27,6 +27,7 @@
    <a href="https://leanpub.com/vue"><img src="https://d2sofvawe08yqg.cloudfront.net/vue/small2x?1549486644" height="150px" /></a>
    <a href="https://leanpub.com/react-beginner-guide"><img src="https://d2sofvawe08yqg.cloudfront.net/react-beginner-guide/small2x?1549470731" height="150px" /></a>
    <a href="https://leanpub.com/vue-book"><img src="https://d2sofvawe08yqg.cloudfront.net/vue-book/small2x?1549500512" height="150px" /></a>
+  <a href="https://leanpub.com/book-graphql"><img src="https://d2sofvawe08yqg.cloudfront.net/book-graphql/hero?1616782896" height="150px" /></a>
 </p>
 
 <h3>Tecnologias que domino</h3>
