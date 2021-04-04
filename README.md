@@ -223,18 +223,18 @@ Backend: Spring Java, Laravel, Node (express, knex)
       <a href="https://github.com/limatheus">Matheus Lima</a>
     </td>
     <td align="center">
-      <a href="https://github.com/IgorDePaula">
-        <img src="https://avatars2.githubusercontent.com/u/2833993" width="100px;" alt="IgorDePaula"/>
-      </a>
-      <br />
-      <a href="https://github.com/IgorDePaula">Igor C. de Paula</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/gustavoquinalha">
         <img src="https://avatars2.githubusercontent.com/u/13446801" width="100px;" alt="gustavoquinalha"/>
       </a>
       <br />
       <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/IgorDePaula">
+        <img src="https://avatars2.githubusercontent.com/u/2833993" width="100px;" alt="IgorDePaula"/>
+      </a>
+      <br />
+      <a href="https://github.com/IgorDePaula">Igor C. de Paula</a>
     </td>
     <td align="center">
       <a href="https://github.com/raisiqueira">
