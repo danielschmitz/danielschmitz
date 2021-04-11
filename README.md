@@ -244,11 +244,11 @@ Backend: Spring Java, Laravel, Node (express, knex)
       <a href="https://github.com/raisiqueira">Raí Siqueira</a>
     </td>
     <td align="center">
-      <a href="https://github.com/KlausDevWalker">
-        <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausDevWalker"/>
+      <a href="https://github.com/KlausEverWalkingDev">
+        <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausEverWalkingDev"/>
       </a>
       <br />
-      <a href="https://github.com/KlausDevWalker">Klaus Ferreira</a>
+      <a href="https://github.com/KlausEverWalkingDev">Klaus Ferreira</a>
     </td>
   </tr>
 </table>
