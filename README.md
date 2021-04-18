@@ -56,18 +56,18 @@ Backend: Spring Java, Laravel, Node (express, knex)
       <a href="https://github.com/loiane">Loiane Groner</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Bunlong">
-        <img src="https://avatars2.githubusercontent.com/u/1308397" width="100px;" alt="Bunlong"/>
-      </a>
-      <br />
-      <a href="https://github.com/Bunlong">Bunlong VAN</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/shayan-taheri">
         <img src="https://avatars2.githubusercontent.com/u/29395458" width="100px;" alt="shayan-taheri"/>
       </a>
       <br />
       <a href="https://github.com/shayan-taheri">Shayan (Sean) Taheri</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Bunlong">
+        <img src="https://avatars2.githubusercontent.com/u/1308397" width="100px;" alt="Bunlong"/>
+      </a>
+      <br />
+      <a href="https://github.com/Bunlong">Bunlong VAN</a>
     </td>
     <td align="center">
       <a href="https://github.com/kvnol">
@@ -91,20 +91,20 @@ Backend: Spring Java, Laravel, Node (express, knex)
       <a href="https://github.com/josemalcher">José Stélio R. Malcher Junior</a>
     </td>
     <td align="center">
-      <a href="https://github.com/NandoKstroNet">
-        <img src="https://avatars2.githubusercontent.com/u/2506528" width="100px;" alt="NandoKstroNet"/>
-      </a>
-      <br />
-      <a href="https://github.com/NandoKstroNet">Nando Kstro Net</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/thanhtoan1196">
         <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
       </a>
       <br />
       <a href="https://github.com/thanhtoan1196">Toan Tran</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/NandoKstroNet">
+        <img src="https://avatars2.githubusercontent.com/u/2506528" width="100px;" alt="NandoKstroNet"/>
+      </a>
+      <br />
+      <a href="https://github.com/NandoKstroNet">Nando Kstro Net</a>
     </td>
     <td align="center">
       <a href="https://github.com/rogeriopradoj">
