@@ -33,7 +33,7 @@
 <h3>Tecnologias que domino</h3>
 <p>
 Frontend: Vuejs, React, React Native, Angular 11 <br/>
-Backend: Spring Java, Laravel, Node (express, knex)
+Backend: Spring Java, Laravel, Node (express, knex), Go Lang
 </p>
 
 
