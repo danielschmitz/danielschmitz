@@ -146,7 +146,7 @@ Backend: Spring Java, Laravel, Node (express, knex), Go Lang
         <img src="https://avatars2.githubusercontent.com/u/35732793" width="100px;" alt="0xb0b1"/>
       </a>
       <br />
-      <a href="https://github.com/0xb0b1">Paulo Vicente Ribeiro Neto</a>
+      <a href="https://github.com/0xb0b1">Paulo Vicente</a>
     </td>
   </tr>
   <tr>
