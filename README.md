@@ -186,18 +186,18 @@ Backend: Spring Java, Laravel, Node (express, knex), Go Lang
       <a href="https://github.com/the-one-who-knoccks">Thiago Alves</a>
     </td>
     <td align="center">
-      <a href="https://github.com/VitorEmanuelDev">
-        <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
-      </a>
-      <br />
-      <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/esneko">
         <img src="https://avatars2.githubusercontent.com/u/64329" width="100px;" alt="esneko"/>
       </a>
       <br />
       <a href="https://github.com/esneko">Andrejs Agejevs</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/VitorEmanuelDev">
+        <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
+      </a>
+      <br />
+      <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
     </td>
   </tr>
   <tr>
@@ -223,11 +223,11 @@ Backend: Spring Java, Laravel, Node (express, knex), Go Lang
       <a href="https://github.com/KlausEverWalkingDev">Klaus Ferreira</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gustavoquinalha">
-        <img src="https://avatars2.githubusercontent.com/u/13446801" width="100px;" alt="gustavoquinalha"/>
+      <a href="https://github.com/raisiqueira">
+        <img src="https://avatars2.githubusercontent.com/u/2914170" width="100px;" alt="raisiqueira"/>
       </a>
       <br />
-      <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
+      <a href="https://github.com/raisiqueira">Raí Siqueira</a>
     </td>
     <td align="center">
       <a href="https://github.com/limatheus">
@@ -237,18 +237,18 @@ Backend: Spring Java, Laravel, Node (express, knex), Go Lang
       <a href="https://github.com/limatheus">Matheus Lima</a>
     </td>
     <td align="center">
+      <a href="https://github.com/gustavoquinalha">
+        <img src="https://avatars2.githubusercontent.com/u/13446801" width="100px;" alt="gustavoquinalha"/>
+      </a>
+      <br />
+      <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/IgorDePaula">
         <img src="https://avatars2.githubusercontent.com/u/2833993" width="100px;" alt="IgorDePaula"/>
       </a>
       <br />
       <a href="https://github.com/IgorDePaula">Igor C. de Paula</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/raisiqueira">
-        <img src="https://avatars2.githubusercontent.com/u/2914170" width="100px;" alt="raisiqueira"/>
-      </a>
-      <br />
-      <a href="https://github.com/raisiqueira">Raí Siqueira</a>
     </td>
   </tr>
 </table>
