@@ -107,18 +107,18 @@ Backend: Spring Java, Laravel, Node (express, knex), Go Lang
       <a href="https://github.com/NandoKstroNet">Nando Kstro Net</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rogeriopradoj">
-        <img src="https://avatars2.githubusercontent.com/u/443391" width="100px;" alt="rogeriopradoj"/>
-      </a>
-      <br />
-      <a href="https://github.com/rogeriopradoj">Rogerio Prado de Jesus</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/wellington1993">
         <img src="https://avatars2.githubusercontent.com/u/6920053" width="100px;" alt="wellington1993"/>
       </a>
       <br />
       <a href="https://github.com/wellington1993">Wellington Torrejais da Silva</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rogeriopradoj">
+        <img src="https://avatars2.githubusercontent.com/u/443391" width="100px;" alt="rogeriopradoj"/>
+      </a>
+      <br />
+      <a href="https://github.com/rogeriopradoj">Rogerio Prado de Jesus</a>
     </td>
     <td align="center">
       <a href="https://github.com/smart-u">
@@ -216,13 +216,6 @@ Backend: Spring Java, Laravel, Node (express, knex), Go Lang
       <a href="https://github.com/fhferreira">Flávio H. Ferreira</a>
     </td>
     <td align="center">
-      <a href="https://github.com/KlausEverWalkingDev">
-        <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausEverWalkingDev"/>
-      </a>
-      <br />
-      <a href="https://github.com/KlausEverWalkingDev">Klaus Ferreira</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/IgorDePaula">
         <img src="https://avatars2.githubusercontent.com/u/2833993" width="100px;" alt="IgorDePaula"/>
       </a>
@@ -249,6 +242,13 @@ Backend: Spring Java, Laravel, Node (express, knex), Go Lang
       </a>
       <br />
       <a href="https://github.com/gustavoquinalha">gustavo quinalha</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KlausEverWalkingDev">
+        <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausEverWalkingDev"/>
+      </a>
+      <br />
+      <a href="https://github.com/KlausEverWalkingDev">Klaus Ferreira</a>
     </td>
   </tr>
 </table>
