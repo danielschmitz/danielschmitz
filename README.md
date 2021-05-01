@@ -216,6 +216,13 @@ Backend: Spring Java, Laravel, Node (express, knex), Go Lang
       <a href="https://github.com/fhferreira">Flávio H. Ferreira</a>
     </td>
     <td align="center">
+      <a href="https://github.com/KlausEverWalkingDev">
+        <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausEverWalkingDev"/>
+      </a>
+      <br />
+      <a href="https://github.com/KlausEverWalkingDev">Klaus Ferreira</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/IgorDePaula">
         <img src="https://avatars2.githubusercontent.com/u/2833993" width="100px;" alt="IgorDePaula"/>
       </a>
@@ -235,13 +242,6 @@ Backend: Spring Java, Laravel, Node (express, knex), Go Lang
       </a>
       <br />
       <a href="https://github.com/limatheus">Matheus Lima</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/KlausEverWalkingDev">
-        <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausEverWalkingDev"/>
-      </a>
-      <br />
-      <a href="https://github.com/KlausEverWalkingDev">Klaus Ferreira</a>
     </td>
     <td align="center">
       <a href="https://github.com/gustavoquinalha">
