@@ -4,22 +4,21 @@
   <img src="https://profile-counter.glitch.me/danielschmitz/count.svg" />
 </p>
 
-<h2>Seja bem vindo(a) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-<p>Meu nome é Daniel Schmitz, sou desenvolvedor fullstack e atualmente trabalho na Univesidade Federal de Juiz de Fora.</p>
+<p>Daniel Schmitz is a software developer and writer. He's originally from Brazil and has published several books in Portuguese/English.</p>
 
-<h3>Meus Livros em português (gratuitos)</h3>
+<h3>Folow me</h3>
 
-<p align="center"> 
-  <a href="https://leanpub.com/livro-angularJS"><img src="https://d2sofvawe08yqg.cloudfront.net/livro-angularJS/hero?1549420607" height="150px" /></a>
-   <a href="https://leanpub.com/livro-angular2"><img src="https://d2sofvawe08yqg.cloudfront.net/livro-angular2/hero?1549473260" height="150px" /></a>
-   <a href="https://leanpub.com/livrovue-builddeployemportigues"><img src="https://d2sofvawe08yqg.cloudfront.net/livrovue-builddeployemportigues/hero?1549509871" height="150px" /></a>
-   <a href="https://leanpub.com/react-guia-do-iniciate"><img src="https://d2sofvawe08yqg.cloudfront.net/react-guia-do-iniciate/hero?1549470710" height="150px" /></a>
-   <a href="https://leanpub.com/livro-vue"><img src="https://d2sofvawe08yqg.cloudfront.net/livro-vue/hero?1549486530" height="150px" /></a>
-</p>
+<p> Stay updated about my books! Follow this accounts (low traffic, just book and crud updates) </p>
 
+<ul>
+  <li> <a href="https://twitter.com/DanielSchmBooks" target="_blank">Twitter</a></li>
+  <li> <a href="https://www.instagram.com/danielschmitzbooks/" target="_blank">Instagram</a></li>
+  <li> <a href="https://www.youtube.com/c/DanielSchmitz/" target="_blank">Youtube</a></li>
+</ul>
 
-<h3>Meus Livros em inglês </h3>
+<h3>My Books:</h3>
 
 <p align="center"> 
   <a href="https://leanpub.com/laravel-and-angularjs"><img src="https://d2sofvawe08yqg.cloudfront.net/laravel-and-angularjs/small2x?1549469404" height="150px" /></a>
@@ -30,20 +29,21 @@
   <a href="https://leanpub.com/book-graphql"><img src="https://d2sofvawe08yqg.cloudfront.net/book-graphql/hero?1616782896" height="150px" /></a>
 </p>
 
-<h3>Tecnologias que domino</h3>
+<h3>My favorite languages and frameworks</h3>
 <p>
+Mobile: Flutter<br/>
 Frontend: Vuejs, React, React Native, Angular 11 <br/>
-Backend: Spring Java, Laravel, Node (express, knex), Go Lang
+Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
 </p>
 
 
-<h3>⚡ Minhas estatísticas no GitHub</h3>
+<h3>⚡ Stats</h3>
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielschmitz&show_icons=true&hide_border=true" />
 <!-- Most Used Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielschmitz&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-<h3>Meus Seguidores</h3>
+<h3>My Folowers</h3>
 <!--<h3>Seguidores</h3>-->
 <!--START_SECTION:top-followers-->
 <table>
@@ -254,6 +254,6 @@ Backend: Spring Java, Laravel, Node (express, knex), Go Lang
 </table>
 <!--END_SECTION:top-followers-->
 
-<h3>Contato</h3>
+<h3>Wanna talk to me?</h3>
 
-Me encontre no telegram [t.me/danielschmitz](t.me/danielschmitz)
+Telegram: [t.me/danielschmitz](t.me/danielschmitz)
