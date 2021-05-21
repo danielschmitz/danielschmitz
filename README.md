@@ -209,18 +209,18 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/KlausEverWalkingDev">Klaus Ferreira</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lanastasov">
-        <img src="https://avatars2.githubusercontent.com/u/385682" width="100px;" alt="lanastasov"/>
-      </a>
-      <br />
-      <a href="https://github.com/lanastasov">lanastasov</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/yanmagale">
         <img src="https://avatars2.githubusercontent.com/u/5148042" width="100px;" alt="yanmagale"/>
       </a>
       <br />
       <a href="https://github.com/yanmagale">Yan Magalhães</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lanastasov">
+        <img src="https://avatars2.githubusercontent.com/u/385682" width="100px;" alt="lanastasov"/>
+      </a>
+      <br />
+      <a href="https://github.com/lanastasov">lanastasov</a>
     </td>
     <td align="center">
       <a href="https://github.com/fhferreira">
@@ -237,18 +237,18 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/raisiqueira">Raí Siqueira</a>
     </td>
     <td align="center">
-      <a href="https://github.com/IgorDePaula">
-        <img src="https://avatars2.githubusercontent.com/u/2833993" width="100px;" alt="IgorDePaula"/>
-      </a>
-      <br />
-      <a href="https://github.com/IgorDePaula">Igor C. de Paula</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/limatheus">
         <img src="https://avatars2.githubusercontent.com/u/5197254" width="100px;" alt="limatheus"/>
       </a>
       <br />
       <a href="https://github.com/limatheus">Matheus Lima</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/IgorDePaula">
+        <img src="https://avatars2.githubusercontent.com/u/2833993" width="100px;" alt="IgorDePaula"/>
+      </a>
+      <br />
+      <a href="https://github.com/IgorDePaula">Igor C. de Paula</a>
     </td>
   </tr>
 </table>
