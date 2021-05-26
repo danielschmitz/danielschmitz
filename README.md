@@ -60,7 +60,7 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
         <img src="https://avatars2.githubusercontent.com/u/29395458" width="100px;" alt="shayan-taheri"/>
       </a>
       <br />
-      <a href="https://github.com/shayan-taheri">Shayan (Sean) Taheri</a>
+      <a href="https://github.com/shayan-taheri">Shayan (Sean) Taheri, Ph.D.</a>
     </td>
     <td align="center">
       <a href="https://github.com/Bunlong">
@@ -172,18 +172,18 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/spekulatius">Peter Thaleikis</a>
     </td>
     <td align="center">
-      <a href="https://github.com/the-one-who-knoccks">
-        <img src="https://avatars2.githubusercontent.com/u/54867997" width="100px;" alt="the-one-who-knoccks"/>
-      </a>
-      <br />
-      <a href="https://github.com/the-one-who-knoccks">Thiago Alves</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/swhgoon">
         <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
       </a>
       <br />
       <a href="https://github.com/swhgoon">SwhGo_oN</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/the-one-who-knoccks">
+        <img src="https://avatars2.githubusercontent.com/u/54867997" width="100px;" alt="the-one-who-knoccks"/>
+      </a>
+      <br />
+      <a href="https://github.com/the-one-who-knoccks">Thiago Alves</a>
     </td>
     <td align="center">
       <a href="https://github.com/VitorEmanuelDev">
@@ -209,6 +209,13 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/yanmagale">Yan Magalhães</a>
     </td>
     <td align="center">
+      <a href="https://github.com/lanastasov">
+        <img src="https://avatars2.githubusercontent.com/u/385682" width="100px;" alt="lanastasov"/>
+      </a>
+      <br />
+      <a href="https://github.com/lanastasov">lanastasov</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/fhferreira">
         <img src="https://avatars2.githubusercontent.com/u/140686" width="100px;" alt="fhferreira"/>
       </a>
@@ -221,13 +228,6 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       </a>
       <br />
       <a href="https://github.com/KlausEverWalkingDev">Klaus Ferreira</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lanastasov">
-        <img src="https://avatars2.githubusercontent.com/u/385682" width="100px;" alt="lanastasov"/>
-      </a>
-      <br />
-      <a href="https://github.com/lanastasov">lanastasov</a>
     </td>
     <td align="center">
       <a href="https://github.com/raisiqueira">
