@@ -91,20 +91,20 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/josemalcher">José Stélio R. Malcher Junior</a>
     </td>
     <td align="center">
-      <a href="https://github.com/thanhtoan1196">
-        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
-      </a>
-      <br />
-      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/NandoKstroNet">
         <img src="https://avatars2.githubusercontent.com/u/2506528" width="100px;" alt="NandoKstroNet"/>
       </a>
       <br />
       <a href="https://github.com/NandoKstroNet">Nando Kstro Net</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/thanhtoan1196">
+        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
+      </a>
+      <br />
+      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
     </td>
     <td align="center">
       <a href="https://github.com/wellington1993">
@@ -209,6 +209,13 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/lanastasov">lanastasov</a>
     </td>
     <td align="center">
+      <a href="https://github.com/fhferreira">
+        <img src="https://avatars2.githubusercontent.com/u/140686" width="100px;" alt="fhferreira"/>
+      </a>
+      <br />
+      <a href="https://github.com/fhferreira">Flávio H. Ferreira</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/KlausEverWalkingDev">
         <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausEverWalkingDev"/>
       </a>
@@ -221,13 +228,6 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       </a>
       <br />
       <a href="https://github.com/yanmagale">Yan Magalhães</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/fhferreira">
-        <img src="https://avatars2.githubusercontent.com/u/140686" width="100px;" alt="fhferreira"/>
-      </a>
-      <br />
-      <a href="https://github.com/fhferreira">Flávio H. Ferreira</a>
     </td>
     <td align="center">
       <a href="https://github.com/raisiqueira">
