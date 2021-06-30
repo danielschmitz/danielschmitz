@@ -179,13 +179,6 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/the-one-who-knoccks">Thiago Alves</a>
     </td>
     <td align="center">
-      <a href="https://github.com/swhgoon">
-        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
-      </a>
-      <br />
-      <a href="https://github.com/swhgoon">SwhGo_oN</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/VitorEmanuelDev">
         <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
       </a>
@@ -193,20 +186,27 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
     </td>
     <td align="center">
-      <a href="https://github.com/KlausEverWalkingDev">
-        <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausEverWalkingDev"/>
+      <a href="https://github.com/swhgoon">
+        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
       </a>
       <br />
-      <a href="https://github.com/KlausEverWalkingDev">Klaus Ferreira</a>
+      <a href="https://github.com/swhgoon">SwhGo_oN</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/lanastasov">
         <img src="https://avatars2.githubusercontent.com/u/385682" width="100px;" alt="lanastasov"/>
       </a>
       <br />
       <a href="https://github.com/lanastasov">lanastasov</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/KlausEverWalkingDev">
+        <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausEverWalkingDev"/>
+      </a>
+      <br />
+      <a href="https://github.com/KlausEverWalkingDev">Klaus Ferreira</a>
     </td>
     <td align="center">
       <a href="https://github.com/esneko">
