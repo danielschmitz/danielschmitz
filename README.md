@@ -91,20 +91,20 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/josemalcher">José Malcher Jr.</a>
     </td>
     <td align="center">
-      <a href="https://github.com/thanhtoan1196">
-        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
-      </a>
-      <br />
-      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/NandoKstroNet">
         <img src="https://avatars2.githubusercontent.com/u/2506528" width="100px;" alt="NandoKstroNet"/>
       </a>
       <br />
       <a href="https://github.com/NandoKstroNet">Nando Kstro Net</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/thanhtoan1196">
+        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
+      </a>
+      <br />
+      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
     </td>
     <td align="center">
       <a href="https://github.com/wellington1993">
@@ -121,18 +121,18 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/rogeriopradoj">Rogerio Prado de Jesus</a>
     </td>
     <td align="center">
-      <a href="https://github.com/wilcorrea">
-        <img src="https://avatars2.githubusercontent.com/u/803733" width="100px;" alt="wilcorrea"/>
-      </a>
-      <br />
-      <a href="https://github.com/wilcorrea">William Correa</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/smart-u">
         <img src="https://avatars2.githubusercontent.com/u/58533323" width="100px;" alt="smart-u"/>
       </a>
       <br />
       <a href="https://github.com/smart-u">Alex Xu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wilcorrea">
+        <img src="https://avatars2.githubusercontent.com/u/803733" width="100px;" alt="wilcorrea"/>
+      </a>
+      <br />
+      <a href="https://github.com/wilcorrea">William Correa</a>
     </td>
     <td align="center">
       <a href="https://github.com/JoseCage">
