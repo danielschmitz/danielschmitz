@@ -121,18 +121,18 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/rogeriopradoj">Rogerio Prado de Jesus</a>
     </td>
     <td align="center">
-      <a href="https://github.com/smart-u">
-        <img src="https://avatars2.githubusercontent.com/u/58533323" width="100px;" alt="smart-u"/>
-      </a>
-      <br />
-      <a href="https://github.com/smart-u">Alex Xu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/wilcorrea">
         <img src="https://avatars2.githubusercontent.com/u/803733" width="100px;" alt="wilcorrea"/>
       </a>
       <br />
       <a href="https://github.com/wilcorrea">William Correa</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/smart-u">
+        <img src="https://avatars2.githubusercontent.com/u/58533323" width="100px;" alt="smart-u"/>
+      </a>
+      <br />
+      <a href="https://github.com/smart-u">Alex Xu</a>
     </td>
     <td align="center">
       <a href="https://github.com/JoseCage">
@@ -186,18 +186,18 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
     </td>
     <td align="center">
-      <a href="https://github.com/swhgoon">
-        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
-      </a>
-      <br />
-      <a href="https://github.com/swhgoon">SwhGo_oN</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/KlausEverWalkingDev">
         <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausEverWalkingDev"/>
       </a>
       <br />
       <a href="https://github.com/KlausEverWalkingDev">Klaus Ferreira</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/swhgoon">
+        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
+      </a>
+      <br />
+      <a href="https://github.com/swhgoon">SwhGo_oN</a>
     </td>
   </tr>
   <tr>
