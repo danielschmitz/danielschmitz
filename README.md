@@ -91,11 +91,11 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/josemalcher">José Malcher Jr.</a>
     </td>
     <td align="center">
-      <a href="https://github.com/thanhtoan1196">
-        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
+      <a href="https://github.com/PranamBhat">
+        <img src="https://avatars2.githubusercontent.com/u/32120033" width="100px;" alt="PranamBhat"/>
       </a>
       <br />
-      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
+      <a href="https://github.com/PranamBhat">Pranam K</a>
     </td>
   </tr>
   <tr>
@@ -105,6 +105,13 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       </a>
       <br />
       <a href="https://github.com/NandoKstroNet">Nando Kstro Net</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/thanhtoan1196">
+        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
+      </a>
+      <br />
+      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
     </td>
     <td align="center">
       <a href="https://github.com/wellington1993">
@@ -141,6 +148,8 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <br />
       <a href="https://github.com/JoseCage">José Cage </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/0xb0b1">
         <img src="https://avatars2.githubusercontent.com/u/35732793" width="100px;" alt="0xb0b1"/>
@@ -148,8 +157,6 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <br />
       <a href="https://github.com/0xb0b1">Paulo Vicente</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/the-one-who-knoccks">
         <img src="https://avatars2.githubusercontent.com/u/54867997" width="100px;" alt="the-one-who-knoccks"/>
@@ -192,6 +199,8 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <br />
       <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/swhgoon">
         <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
@@ -199,8 +208,6 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <br />
       <a href="https://github.com/swhgoon">SwhGo_oN</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/lanastasov">
         <img src="https://avatars2.githubusercontent.com/u/385682" width="100px;" alt="lanastasov"/>
@@ -242,13 +249,6 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       </a>
       <br />
       <a href="https://github.com/limatheus">Matheus Lima</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/IzaacBaptista">
-        <img src="https://avatars2.githubusercontent.com/u/22525862" width="100px;" alt="IzaacBaptista"/>
-      </a>
-      <br />
-      <a href="https://github.com/IzaacBaptista">Izaac Baptista</a>
     </td>
   </tr>
 </table>
