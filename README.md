@@ -100,18 +100,18 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/NandoKstroNet">
-        <img src="https://avatars2.githubusercontent.com/u/2506528" width="100px;" alt="NandoKstroNet"/>
-      </a>
-      <br />
-      <a href="https://github.com/NandoKstroNet">Nando Kstro Net</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/thanhtoan1196">
         <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
       </a>
       <br />
       <a href="https://github.com/thanhtoan1196">Toan Tran</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NandoKstroNet">
+        <img src="https://avatars2.githubusercontent.com/u/2506528" width="100px;" alt="NandoKstroNet"/>
+      </a>
+      <br />
+      <a href="https://github.com/NandoKstroNet">Nando Kstro Net</a>
     </td>
     <td align="center">
       <a href="https://github.com/wellington1993">
@@ -223,18 +223,18 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/esneko">Andrejs Agejevs</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fhferreira">
-        <img src="https://avatars2.githubusercontent.com/u/140686" width="100px;" alt="fhferreira"/>
-      </a>
-      <br />
-      <a href="https://github.com/fhferreira">Flávio H. Ferreira</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/IzaacBaptista">
         <img src="https://avatars2.githubusercontent.com/u/22525862" width="100px;" alt="IzaacBaptista"/>
       </a>
       <br />
       <a href="https://github.com/IzaacBaptista">Izaac Baptista</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fhferreira">
+        <img src="https://avatars2.githubusercontent.com/u/140686" width="100px;" alt="fhferreira"/>
+      </a>
+      <br />
+      <a href="https://github.com/fhferreira">Flávio H. Ferreira</a>
     </td>
     <td align="center">
       <a href="https://github.com/yanmagale">
