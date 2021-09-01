@@ -216,18 +216,18 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/lanastasov">lanastasov</a>
     </td>
     <td align="center">
-      <a href="https://github.com/esneko">
-        <img src="https://avatars2.githubusercontent.com/u/64329" width="100px;" alt="esneko"/>
-      </a>
-      <br />
-      <a href="https://github.com/esneko">Andrejs Agejevs</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/IzaacBaptista">
         <img src="https://avatars2.githubusercontent.com/u/22525862" width="100px;" alt="IzaacBaptista"/>
       </a>
       <br />
       <a href="https://github.com/IzaacBaptista">Izaac Baptista</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/esneko">
+        <img src="https://avatars2.githubusercontent.com/u/64329" width="100px;" alt="esneko"/>
+      </a>
+      <br />
+      <a href="https://github.com/esneko">Andrejs Agejevs</a>
     </td>
     <td align="center">
       <a href="https://github.com/fhferreira">
