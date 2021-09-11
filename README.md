@@ -158,18 +158,18 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/0xb0b1">Paulo Vicente</a>
     </td>
     <td align="center">
-      <a href="https://github.com/the-one-who-knoccks">
-        <img src="https://avatars2.githubusercontent.com/u/54867997" width="100px;" alt="the-one-who-knoccks"/>
-      </a>
-      <br />
-      <a href="https://github.com/the-one-who-knoccks">Thiago Alves</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/KlausEverWalkingDev">
         <img src="https://avatars2.githubusercontent.com/u/3390598" width="100px;" alt="KlausEverWalkingDev"/>
       </a>
       <br />
       <a href="https://github.com/KlausEverWalkingDev">Klaus Ferreira</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/the-one-who-knoccks">
+        <img src="https://avatars2.githubusercontent.com/u/54867997" width="100px;" alt="the-one-who-knoccks"/>
+      </a>
+      <br />
+      <a href="https://github.com/the-one-who-knoccks">Thiago Alves</a>
     </td>
     <td align="center">
       <a href="https://github.com/IzaacBaptista">
