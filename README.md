@@ -13,9 +13,9 @@
 <p> Stay updated about my books! Follow this accounts (low traffic, just book and crud updates) </p>
 
 <ul>
-  <li> <a href="https://twitter.com/DanielSchmBooks" target="_blank">Twitter</a></li>
-  <li> <a href="https://www.instagram.com/danielschmitzbooks/" target="_blank">Instagram</a></li>
+  <li> <a href="https://www.instagram.com/dpschmitz/" target="_blank">Instagram</a></li>
   <li> <a href="https://www.youtube.com/c/DanielSchmitz/" target="_blank">Youtube</a></li>
+  <li> <a href="https://leanpub.com/u/danielschmitz" target="_blank">Leanpub</a></li>
 </ul>
 
 <h3>My Books:</h3>
