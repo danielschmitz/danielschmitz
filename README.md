@@ -244,11 +244,11 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/raisiqueira">Raí Siqueira</a>
     </td>
     <td align="center">
-      <a href="https://github.com/recieire">
-        <img src="https://avatars2.githubusercontent.com/u/38233554" width="100px;" alt="recieire"/>
+      <a href="https://github.com/dsfb">
+        <img src="https://avatars2.githubusercontent.com/u/2995775" width="100px;" alt="dsfb"/>
       </a>
       <br />
-      <a href="https://github.com/recieire">Recieire Carbelim</a>
+      <a href="https://github.com/dsfb">Daniel Bruno</a>
     </td>
   </tr>
 </table>
