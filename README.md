@@ -151,18 +151,18 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/0xb0b1">
-        <img src="https://avatars2.githubusercontent.com/u/35732793" width="100px;" alt="0xb0b1"/>
-      </a>
-      <br />
-      <a href="https://github.com/0xb0b1">Paulo Vicente</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/IzaacBaptista">
         <img src="https://avatars2.githubusercontent.com/u/22525862" width="100px;" alt="IzaacBaptista"/>
       </a>
       <br />
       <a href="https://github.com/IzaacBaptista">Izaac Baptista</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0xb0b1">
+        <img src="https://avatars2.githubusercontent.com/u/35732793" width="100px;" alt="0xb0b1"/>
+      </a>
+      <br />
+      <a href="https://github.com/0xb0b1">Paulo Vicente</a>
     </td>
     <td align="center">
       <a href="https://github.com/KlausEverWalkingDev">
@@ -193,20 +193,20 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/ktquez">Alan Ktquez</a>
     </td>
     <td align="center">
-      <a href="https://github.com/VitorEmanuelDev">
-        <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
-      </a>
-      <br />
-      <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/danilolutz">
         <img src="https://avatars2.githubusercontent.com/u/1561739" width="100px;" alt="danilolutz"/>
       </a>
       <br />
       <a href="https://github.com/danilolutz">Danilo Lutz</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/VitorEmanuelDev">
+        <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
+      </a>
+      <br />
+      <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
     </td>
     <td align="center">
       <a href="https://github.com/lanastasov">
