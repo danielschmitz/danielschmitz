@@ -142,20 +142,20 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/smart-u">Alex Xu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/JoseCage">
-        <img src="https://avatars2.githubusercontent.com/u/4200487" width="100px;" alt="JoseCage"/>
-      </a>
-      <br />
-      <a href="https://github.com/JoseCage">José Cage </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/IzaacBaptista">
         <img src="https://avatars2.githubusercontent.com/u/22525862" width="100px;" alt="IzaacBaptista"/>
       </a>
       <br />
       <a href="https://github.com/IzaacBaptista">Izaac Baptista</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/JoseCage">
+        <img src="https://avatars2.githubusercontent.com/u/4200487" width="100px;" alt="JoseCage"/>
+      </a>
+      <br />
+      <a href="https://github.com/JoseCage">José Cage </a>
     </td>
     <td align="center">
       <a href="https://github.com/0xb0b1">
@@ -230,18 +230,18 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/esneko">Andrejs Agejevs</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fhferreira">
-        <img src="https://avatars2.githubusercontent.com/u/140686" width="100px;" alt="fhferreira"/>
-      </a>
-      <br />
-      <a href="https://github.com/fhferreira">Flávio H. Ferreira</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/dsfb">
         <img src="https://avatars2.githubusercontent.com/u/2995775" width="100px;" alt="dsfb"/>
       </a>
       <br />
       <a href="https://github.com/dsfb">Daniel Bruno</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fhferreira">
+        <img src="https://avatars2.githubusercontent.com/u/140686" width="100px;" alt="fhferreira"/>
+      </a>
+      <br />
+      <a href="https://github.com/fhferreira">Flávio H. Ferreira</a>
     </td>
     <td align="center">
       <a href="https://github.com/raisiqueira">
