@@ -100,18 +100,18 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/thanhtoan1196">
-        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
-      </a>
-      <br />
-      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/wellington1993">
         <img src="https://avatars2.githubusercontent.com/u/6920053" width="100px;" alt="wellington1993"/>
       </a>
       <br />
       <a href="https://github.com/wellington1993">Wellington Torrejais da Silva</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/thanhtoan1196">
+        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
+      </a>
+      <br />
+      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
     </td>
     <td align="center">
       <a href="https://github.com/NandoKstroNet">
