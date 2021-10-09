@@ -193,20 +193,20 @@ Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
       <a href="https://github.com/spekulatius">Peter Thaleikis</a>
     </td>
     <td align="center">
-      <a href="https://github.com/danilolutz">
-        <img src="https://avatars2.githubusercontent.com/u/1561739" width="100px;" alt="danilolutz"/>
-      </a>
-      <br />
-      <a href="https://github.com/danilolutz">Danilo Lutz</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/VitorEmanuelDev">
         <img src="https://avatars2.githubusercontent.com/u/42883031" width="100px;" alt="VitorEmanuelDev"/>
       </a>
       <br />
       <a href="https://github.com/VitorEmanuelDev">Vitor Emanuel</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/danilolutz">
+        <img src="https://avatars2.githubusercontent.com/u/1561739" width="100px;" alt="danilolutz"/>
+      </a>
+      <br />
+      <a href="https://github.com/danilolutz">Danilo Lutz</a>
     </td>
     <td align="center">
       <a href="https://github.com/lanastasov">
