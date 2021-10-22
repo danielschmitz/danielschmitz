@@ -14,7 +14,6 @@
 
 <ul>
   <li> <a href="https://www.instagram.com/dpschmitz/" target="_blank">Instagram</a></li>
-  <li> <a href="https://www.youtube.com/c/DanielSchmitz/" target="_blank">Youtube</a></li>
   <li> <a href="https://leanpub.com/u/danielschmitz" target="_blank">Leanpub</a></li>
 </ul>
 
@@ -32,8 +31,8 @@
 <h3>My favorite languages and frameworks</h3>
 <p>
 Mobile: Flutter<br/>
-Frontend: Vuejs, React, React Native, Angular 11 <br/>
-Backend: Spring Java, Laravel, Node (express, knex, nestjs), Go Lang
+Frontend: Vuejs, React, React Native, Angular 12 <br/>
+Backend: Spring Java, Laravel, Node (express, knex, nestjs, nextjs), Go Lang
 </p>
 
 
