@@ -8,15 +8,6 @@
 
 <p>Daniel Schmitz is a software developer and writer. He's originally from Brazil and has published several books in Portuguese/English.</p>
 
-<h3>Folow me</h3>
-
-<p> Stay updated about my books! Follow this accounts (low traffic, just book and crud updates) </p>
-
-<ul>
-  <li> <a href="https://www.instagram.com/dpschmitz/" target="_blank">Instagram</a></li>
-  <li> <a href="https://leanpub.com/u/danielschmitz" target="_blank">Leanpub</a></li>
-</ul>
-
 <h3>My Books:</h3>
 
 <p align="center"> 
