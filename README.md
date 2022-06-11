@@ -4,14 +4,14 @@
   <img src="https://profile-counter.glitch.me/danielschmitz/count.svg" />
 </p>
 
-<h2>Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Welcome</h2>
 
 <p>Daniel Schmitz is a software developer and writer. He's originally from Brazil and has published several books in Portuguese/English.</p>
 
 <h3>My Books:</h3>
 
 <p align="center"> 
-  <a href="https://leanpub.com/laravel-and-angularjs"><img src="https://d2sofvawe08yqg.cloudfront.net/laravel-and-angularjs/small2x?1549469404" height="150px" /></a>
+  <a href="https://leanpub.com/book-angular"><img src="https://d2sofvawe08yqg.cloudfront.net/book-angular/s_hero2x?1646311377" height="150px" /></a>
    <a href="https://leanpub.com/practical-angular-2"><img src="https://d2sofvawe08yqg.cloudfront.net/practical-angular-2/small2x?1549473273" height="150px" /></a>
    <a href="https://leanpub.com/vue"><img src="https://d2sofvawe08yqg.cloudfront.net/vue/small2x?1549486644" height="150px" /></a>
    <a href="https://leanpub.com/react-beginner-guide"><img src="https://d2sofvawe08yqg.cloudfront.net/react-beginner-guide/small2x?1549470731" height="150px" /></a>
