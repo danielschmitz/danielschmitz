@@ -8,7 +8,7 @@
 
 <p>Daniel Schmitz is a software developer and writer. He's originally from Brazil and has published several books in Portuguese/English.</p>
 
-<h3> 📚 My Books:</h3>
+<h2> 📚 My Books:</h2>
 
 <p align="center"> 
   <a href="https://leanpub.com/book-angular"><img src="https://d2sofvawe08yqg.cloudfront.net/book-angular/s_hero2x?1646311377" height="150px" /></a>
@@ -19,7 +19,7 @@
   <a href="https://leanpub.com/book-graphql"><img src="https://d2sofvawe08yqg.cloudfront.net/book-graphql/hero?1616782896" height="150px" /></a>
 </p>
 
-<h3> 🛠️ My favorite tools</h3>
+<h2> 🛠️ My favorite tools</h2>
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -40,7 +40,7 @@
 ![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)
 
 
-<h3> 📚🇧🇷 Books in Portuguese (free)</h3>
+<h2> 📚🇧🇷 Books in Portuguese (free)</h2>
 
 <p align="center"> 
   <a href="https://leanpub.com/livro-angularJS"><img src="https://d2sofvawe08yqg.cloudfront.net/livro-angularJS/hero?1549420607" height="150px" /></a>
@@ -50,7 +50,7 @@
 </p>
 
 
-<h3>⚡ Stats</h3>
+<h2>⚡ Stats</h2>
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielschmitz&show_icons=true&hide_border=true" />
 <!-- Most Used Languages -->
@@ -267,6 +267,6 @@
 </table>
 <!--END_SECTION:top-followers-->
 
-<h3>Wanna talk to me?</h3>
+<h2>  Wanna talk to me?</h2>
 
-Telegram: [t.me/danielschmitz](t.me/danielschmitz)
+![t.me/danielschmitz](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
