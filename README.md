@@ -4,11 +4,11 @@
   <img src="https://profile-counter.glitch.me/danielschmitz/count.svg" />
 </p>
 
-<h2>Welcome</h2>
+<h2> 👋 Welcome </h2>
 
 <p>Daniel Schmitz is a software developer and writer. He's originally from Brazil and has published several books in Portuguese/English.</p>
 
-<h3>My Books:</h3>
+<h3> 📚 My Books:</h3>
 
 <p align="center"> 
   <a href="https://leanpub.com/book-angular"><img src="https://d2sofvawe08yqg.cloudfront.net/book-angular/s_hero2x?1646311377" height="150px" /></a>
@@ -19,14 +19,28 @@
   <a href="https://leanpub.com/book-graphql"><img src="https://d2sofvawe08yqg.cloudfront.net/book-graphql/hero?1616782896" height="150px" /></a>
 </p>
 
-<h3>My favorite languages and frameworks</h3>
-<p>
-Mobile: Flutter<br/>
-Frontend: Vuejs, React, React Native, Angular 12 <br/>
-Backend: Spring Java, Laravel, Node (express, knex, nestjs, nextjs), Go Lang
-</p>
+<h3> 🛠️ My favorite tools</h3>
 
-<h3>Books in Portuguese (free)</h3>
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-017AD7?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E34F26?style=flat-square&logo=linux&logoColor=black)
+![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)
+
+
+<h3> 📚🇧🇷 Books in Portuguese (free)</h3>
 
 <p align="center"> 
   <a href="https://leanpub.com/livro-angularJS"><img src="https://d2sofvawe08yqg.cloudfront.net/livro-angularJS/hero?1549420607" height="150px" /></a>
