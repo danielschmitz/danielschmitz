@@ -269,4 +269,4 @@
 
 <h2>  Wanna talk to me?</h2>
 
-![t.me/danielschmitz](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+<a href="https://t.me/danielschmitz">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)</a>
