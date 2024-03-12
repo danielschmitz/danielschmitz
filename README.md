@@ -42,7 +42,8 @@
 
 <h2> 📚🇧🇷 Books in Portuguese (free)</h2>
 
-<p align="center"> 
+<p align="center">
+<a href="https://leanpub.com/book-vue-br"><img src="https://d2sofvawe08yqg.cloudfront.net/book-vue-br/s_hero?1710245669" height="150px" /></a>
   <a href="https://leanpub.com/livro-angularJS"><img src="https://d2sofvawe08yqg.cloudfront.net/livro-angularJS/hero?1549420607" height="150px" /></a>
    <a href="https://leanpub.com/livro-angular2"><img src="https://d2sofvawe08yqg.cloudfront.net/livro-angular2/hero?1549473260" height="150px" /></a>
    <a href="https://leanpub.com/react-guia-do-iniciate"><img src="https://d2sofvawe08yqg.cloudfront.net/react-guia-do-iniciate/hero?1549470710" height="150px" /></a>
